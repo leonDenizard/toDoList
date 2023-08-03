@@ -5,8 +5,12 @@ function App() {
   
 
   return (
-    <main className="bg-zinc-100 min-h-screen w-full">
-      <Header></Header>
+    <main className="bg-primary-color min-h-screen w-full">
+
+      <section>
+        <Header></Header>
+      </section>
+      
       
     </main>
   )
