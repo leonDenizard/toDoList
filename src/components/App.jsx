@@ -5,8 +5,9 @@ function App() {
   
 
   return (
-    <main>
+    <main className="bg-zinc-100 min-h-screen w-full">
       <Header></Header>
+      
     </main>
   )
 }
