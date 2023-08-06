@@ -11,6 +11,12 @@ export default {
       },
       fontFamily:{
         'Roboto': ['Roboto', 'sans-serif']
+      },
+      maxWidth:{
+        '80': '80%'
+      },
+      minHeight:{
+        'secton': '60vh'
       }
     },
   },
