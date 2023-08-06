@@ -1,4 +1,5 @@
 import { Header } from "./Header/Header"
+import { InputTask } from "./InputTask/InputTask"
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
 
       <section className="h-4/5 w-4/5 bg-purple-100 rounded p-4 shadow-lg">
         <Header></Header>
+        <InputTask></InputTask>
       </section>
       
       
