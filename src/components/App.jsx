@@ -14,7 +14,7 @@ function App() {
       <section className="w-4/5 md:max-w-lg bg-purple-100 rounded p-4 shadow-lg">
         <Header></Header>
         <InputTask itens={itens} setItens={setItens}></InputTask>
-        <TaskList itens={itens}></TaskList>
+        <TaskList itens={itens} setItens={setItens}></TaskList>
       </section>
       
       
