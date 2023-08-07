@@ -16,7 +16,7 @@ export default {
         '80': '80%'
       },
       minHeight:{
-        'secton': '60vh'
+        'section': '60vh'
       }
     },
   },
